@@ -26,9 +26,9 @@ python run_model.py
 Discuss the model's performance, precision, recall rates, and its impact on the OncoKB database.
 
 ## Acknowledgments
-- NYU Instructors: [Instructor Names]
-- Sloan Mentors: [Mentor Names]
-- Teammates: [Teammate Names]
+- NYU Instructors: Jaccopo Cirrone, Brian McFee
+- Sloan Mentors: Hongxin Zhang, Chenlian Fu, Xing David Wang
+- Teammates: Abhilash Anand, Kritik Seth, Saahil Jain
 
 ## Contributing
 Information on how others can contribute to the project.
